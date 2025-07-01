@@ -92,5 +92,5 @@ ForexGold-AutoTrader is an automated trading bot designed to capitalize on gold 
 # Built With:
 - **MQL4 & MQL5** – Expert Advisor scripts for MT4/MT5 integration
 - **Python** – Optional data-analysis hooks and custom performance reporting
-- **MetaTrader 4 & 5 **– Trading platforms where the EA runs
+- **MetaTrader 4 & 5** – Trading platforms where the EA runs
 - **VPS Deployment** – Keeps the bot live 24/5 (e.g., Ubuntu server)
